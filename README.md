@@ -2,7 +2,7 @@
 Emulate high speed scanning Atomic Force Microscopy images from molecular structures
 ---
 Calculate hsAFM images given a molecular system. This has been built to image SARS-CoV-2 spike protein 
-    positioned on mica surface, therefore many options pertain to that. Nevertheless, this can be wasily adopted
+    positioned on mica surface, therefore many options pertain to that. Nevertheless, this can be easily adopted
     to any protein of interest or trajectory thereof.
     
     
